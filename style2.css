@@ -1,0 +1,13 @@
+span{
+    width: 400px;
+    height: 200px;
+    border: 5px solid black;
+    display: inline-block;
+}
+.line1{
+    margin-right: 5px;
+}
+.line2{
+    margin-left: 420px;
+    margin-top:10px;
+}
